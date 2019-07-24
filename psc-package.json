@@ -1,0 +1,13 @@
+{
+  "name": "gruesome-crayon",
+  "set": "psc-0.13.2",
+  "source": "https://github.com/purescript/package-sets.git",
+  "depends": [
+    "console",
+    "effect",
+    "generics-rep",
+    "lists",
+    "prelude",
+    "psci-support"
+  ]
+}
